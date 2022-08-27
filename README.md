@@ -23,6 +23,8 @@ respectiva busca.
 
 ## Documentação da API
 
+https://documenter.getpostman.com/view/15488606/VUxKS99Z
+
 ## Stacks Utilizadas
 
 NodeJs
