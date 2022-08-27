@@ -12,7 +12,7 @@ Objetivo do projeto é Criar uma API para cadastros e consulta de produtos.
 -Endpoint para insersção de dados, o cliente poderá enviá-los em arquivos json onde é
 inserido no banco de dados.
 
--Endpoint para consulta de produtos, cliente irá poder realizar consultas por id, name, e tags
+-Endpoint para consulta de produtos, cliente irá poder realizar consultas por id, name, e tags.
 Caso a consulta seja por uma tag ou nome, uma lista é retornada com todos os produtos com aquela
 respectiva busca.
 
