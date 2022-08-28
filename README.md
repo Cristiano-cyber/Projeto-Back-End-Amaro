@@ -20,6 +20,9 @@ respectiva busca.
 
 -Endpoints inclusos para Admins, Criar um novo Produto, uma nova Tag, editar uma Tag e deletar um produto.
 
+## Deploy Heroku
+
+https://project-amaro.herokuapp.com/products
 
 ## Documentação da API
 
